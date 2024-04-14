@@ -1,6 +1,6 @@
 # requirements.md
 
-# Product Description
+## Product Description
 
 Our online health care application offers a wide range of services tailored to different public groups. With a focus on aiding individuals diagnosed with aphasia, our platform is equipped with advanced functions and options aimed at facilitating communication with health care providers online.
 
